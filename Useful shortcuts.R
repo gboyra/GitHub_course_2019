@@ -1,7 +1,7 @@
 # Useful shortcuts
 
 # "Control" + "Shift" + "M" == "%>%" 
-a %>% filter (x < 5)
+a %>% filter(x < 5)
 
 # "Alt" + "-" == "<-"
 a <- 5
