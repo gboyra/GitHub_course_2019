@@ -1,5 +1,5 @@
 center <- function(x) {
-  x - meen(x)
+  x - mean(x)
 }
 
 rescale <- function(x) {

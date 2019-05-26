@@ -22,7 +22,7 @@ a <- 5
 # (2) clic on as many lines as you want to write the same sentence in them
 
 # Compress all folds (expandible sections) in the document
-# "Alt" + "o"             == close
+# "Alt" + "O"             == close
 # "Alt" + "Shift" + "O"   == open
 
 # "Ctrl" + "P" to jump between start and end of a parenthesis
@@ -30,3 +30,6 @@ a <- 5
 # "Shift" + "Alt" + "G" == Go to line...
 
 # "Ctrl" + "Shift" + "F10" == Restart R session
+
+ 
+  
