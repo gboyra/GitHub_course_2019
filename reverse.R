@@ -1,6 +1,6 @@
 #' Reverse
 #' 
-#' Reverses a copy of a vector if it has at least one element
+#' Reverses a vector if it has at least one element
 #'
 #' @param x 
 #'
